@@ -22,9 +22,12 @@ This solution uses a sophisticated linear programming approach to optimize order
 ## 🧮 Mathematical Formulation
 
 The problem is formulated as a binary optimization model with:
-- Decision Variables: Order allocation to facilities
-- Objective Function: Minimize total delivery distance
-- Constraints: 
+
+Decision Variables: Order allocation to facilities
+
+Objective Function: Minimize total delivery distance.
+
+Constraints: 
  - Ensure complete order allocation
  - Maintain service level agreements
  - Prevent duplicate facility assignments
